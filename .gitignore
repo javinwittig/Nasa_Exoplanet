@@ -1,6 +1,31 @@
-.venv/
-venv/
-ps_data.csv
+# Trainingsdaten
+*.csv
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.npy
+*.npz
+*.parquet
+*.feather
+*.xls
+*.xlsx
+
+# Python
 __pycache__/
 *.pyc
+*.pyo
 .ipynb_checkpoints/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Modelle
+*.joblib
+*.pt
+*.pth
+*.onnx
+*.pb
+*.tflite
