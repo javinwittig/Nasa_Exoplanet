@@ -3,7 +3,7 @@
 <h1>Project: NASA Exoplanet Classification</h1>
 
 <h2>Overview</h2>
-<p>This repository contains the workflow and model implementation for classifying habitable exoplanets using data from NASA.</p>
+<p>This repository contains the workflow and model implementation for classifying habitable exoplanets using data from NASA(https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=PSCompPars).</p>
 
 <h2>Approach</h2>
 <p>To build an effective classification model, the following steps were taken:</p>
