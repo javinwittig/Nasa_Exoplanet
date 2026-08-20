@@ -17,13 +17,13 @@ To build an effective classification model, the following steps were taken:
 Below is a visualization representation of the Confusion Matrix. 
 
 
-| | Predicted: No Exoplanet | Predicted: Exoplanet |
-| :--- | :---: | :---: |
-| **Actual: No Exoplanet** | True Negative (TN) | False Positive (FP) |
-| **Actual: Exoplanet** | False Negative (FN) | True Positive (TP) |
+<p align="center">
+  <img src="Assets/Graph.png" alt="Hackpad PCB" width="500">
+</p>
 
-### How to use this repository
-To interact with the model and view the matrix dynamically:
+### My Project Website
+
+With the following link you can explore my own Project Website: https://javinwittig.github.io/exoplanet-habitability/
 
 
 ## Contributors
