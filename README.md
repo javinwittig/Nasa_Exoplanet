@@ -23,8 +23,8 @@ Below is a visualization representation of the Confusion Matrix.
 
 ### My Project Website
 
-With the following link you can explore my own Project Website: https://javinwittig.github.io/exoplanet-habitability/
-
+You can explore my project website via this link: https://javinwittig.github.io/exoplanet-habitability/
+This link leads to my GitHub repository where I built the website mentioned above: https://github.com/javinwittig/exoplanet-habitability
 
 ## Contributors
 *   Javin Wittig
