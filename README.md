@@ -36,4 +36,4 @@
 
 <div align="center">
 <h3>Ai Usage</h3>
-AI Declaration: Claude for Research and coding; Opencode for coding
+AI Declaration: Claude for Research and some coding; Opencode for coding parts of the Website
