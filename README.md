@@ -32,3 +32,8 @@
 <p>Javin Wittig</p>
 
 </div>
+
+
+<div align="center">
+<h3>Ai Usage</h3>
+AI Declaration: Claude for Research and coding; Opencode for coding
