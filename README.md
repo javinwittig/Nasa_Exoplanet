@@ -1,31 +1,34 @@
-# Project: NASA Exoplanet Classification
+<div align="center">
 
-## Overview
-This repository contains the workflow and model implementation for classifying habitable exoplanets using data from NASA. 
+<h1>Project: NASA Exoplanet Classification</h1>
 
-## Approach
-To build an effective classification model, the following steps were taken:
+<h2>Overview</h2>
+<p>This repository contains the workflow and model implementation for classifying habitable exoplanets using data from NASA.</p>
 
-1.  **Data Preprocessing**: Cleaning the dataset, handling missing values, and normalizing features.
-2.  **Exploratory Data Analysis (EDA)**: Understanding feature distributions and relationships.
-3.  **Feature Selection**: Identifying key variables that influence exoplanet classification.
-4.  **Model Training**: Using [Insert Algorithm Name, e.g., Random Forest/SVM] to train the classifier.
-5.  **Evaluation**: Validating model performance using metrics such as Accuracy, Precision, Recall, and the Confusion Matrix.
+<h2>Approach</h2>
+<p>To build an effective classification model, the following steps were taken:</p>
 
-## Model Performance: Confusion Matrix
-
-Below is a visualization representation of the Confusion Matrix. 
-
-
-<p align="center">
-  <img src="Assets/Graph.png" alt="Hackpad PCB" width="500">
+<p>
+  <b>1. Data Preprocessing:</b> Cleaning the dataset, handling missing values, and normalizing features.<br>
+  <b>2. Exploratory Data Analysis (EDA):</b> Understanding feature distributions and relationships.<br>
+  <b>3. Feature Selection:</b> Identifying key variables that influence exoplanet classification.<br>
+  <b>4. Model Training:</b> Using Random Forest / SVM to train the classifier.<br>
+  <b>5. Evaluation:</b> Validating model performance using metrics such as Accuracy, Precision, Recall, and the Confusion Matrix.
 </p>
 
-### My Project Website
+<h2>Model Performance: Confusion Matrix</h2>
+<p>Below is a visualization representation of the Confusion Matrix.</p>
 
-You can explore my project website via this link: https://javinwittig.github.io/exoplanet-habitability/
+<p>
+  <img src="Assets/Graph.png" alt="Confusion Matrix" width="500">
+</p>
 
-This link leads to my GitHub repository where I built the website mentioned above: https://github.com/javinwittig/exoplanet-habitability
+<h3>My Project Website</h3>
+<p>You can explore my project website via this link: <a href="https://javinwittig.github.io/exoplanet-habitability/">https://javinwittig.github.io/exoplanet-habitability/</a></p>
 
-## Contributors
-*   Javin Wittig
+<p>This link leads to my GitHub repository where I built the website mentioned above: <a href="https://github.com/javinwittig/exoplanet-habitability">https://github.com/javinwittig/exoplanet-habitability</a></p>
+
+<h2>Contributors</h2>
+<p>Javin Wittig</p>
+
+</div>
