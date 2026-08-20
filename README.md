@@ -23,7 +23,7 @@
   <img src="Assets/Graph.png" alt="Confusion Matrix" width="500">
 </p>
 
-<h3>My Project Website</h3>
+<h1>My Project Website</h1>
 <p>You can explore my project website via this link: <a href="https://javinwittig.github.io/exoplanet-habitability/">https://javinwittig.github.io/exoplanet-habitability/</a></p>
 
 <p>This link leads to my GitHub repository where I built the website mentioned above: <a href="https://github.com/javinwittig/exoplanet-habitability">https://github.com/javinwittig/exoplanet-habitability</a></p>
