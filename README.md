@@ -1,7 +1,7 @@
 # Project: NASA Exoplanet Classification
 
 ## Overview
-This repository contains the workflow and model implementation for classifying exoplanets using data from NASA. 
+This repository contains the workflow and model implementation for classifying habitable exoplanets using data from NASA. 
 
 ## Approach
 To build an effective classification model, the following steps were taken:
